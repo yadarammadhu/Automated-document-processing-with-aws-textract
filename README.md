@@ -19,4 +19,4 @@ This project automates the process of extracting text and structured data from s
 ## 📬 Contact
 
 For questions or suggestions, feel free to connect:  
-[LinkedIn - Madhu Chary] (https://www.linkedin.com/in/yadaram-madhu-chary-19a4a028b/)
+[LinkedIn - Madhu Chary] (https://www.linkedin.com/in/madhu-chary-yadaram-19a4a028b/)
